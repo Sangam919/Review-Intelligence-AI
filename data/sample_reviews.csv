@@ -1,0 +1,51 @@
+id,user_name,score,text,date,version,thumbs_up,reply_text,reply_date,data_type
+SAMPLE_001,Aakash Sharma,1,"App continuously crashes upon clicking SOS during late night commute. Extreme safety hazard!",2026-03-28 23:14:00,12.4.1,42,"Hello Aakash, we apologize for this severe issue. Our safety engineering team is investigating immediately.",2026-03-29 09:00:00,sample
+SAMPLE_002,Priya Sundaram,1,"Driver started ride without OTP verification while I was still at office reception! Had to scramble for another cab.",2026-03-27 19:40:00,12.4.0,28,"Hi Priya, security compliance is strictly enforced. We have escalated this driver partner to fleet ops.",2026-03-28 10:15:00,sample
+SAMPLE_003,Rahul Verma,1,"Live tracking map shows vehicle stationary 5km away, but driver calls saying he has reached gate. GPS is completely broken.",2026-03-25 08:12:00,12.3.9,19,,None,sample
+SAMPLE_004,Sneha Patel,2,"Cannot login after latest update. OTP SMS arrives after 15 minutes by which time the session expires.",2026-03-24 07:45:00,12.4.1,35,,None,sample
+SAMPLE_005,Vikram Malhotra,1,"Booking deadline roster does not allow shifting pickup slots. App throws internal server error 500 when saving.",2026-03-22 14:30:00,12.4.0,14,"We are working on roster synchronization bugs. Please reach out to your office transportation admin.",2026-03-23 11:00:00,sample
+SAMPLE_006,Deepika Nair,1,"Cab arrived 35 minutes late. ETA kept fluctuating from 5 mins to 25 mins back and forth. Missed morning team meeting.",2026-03-20 09:10:00,12.3.8,17,,None,sample
+SAMPLE_007,Rohan Gupta,1,"Driver was driving extremely rashly and talking on phone continuously. Felt unsafe throughout the highway commute.",2026-03-19 22:50:00,12.3.8,22,"Safety is our highest priority. Incident reference #99214 logged for vendor audit.",2026-03-20 08:30:00,sample
+SAMPLE_008,Ananya Roy,2,"No push notification when cab arrived. Escort guard wasn't assigned for female employee drop past 10 PM.",2026-03-18 22:15:00,12.3.7,31,,None,sample
+SAMPLE_009,Karthik Subramanian,1,"Support desk closed my grievance ticket regarding deducted no-show penalty without providing any reply or refund.",2026-03-16 11:20:00,12.3.7,11,,None,sample
+SAMPLE_010,Meera Joshi,1,"App freezes on splash screen on Samsung S24. Cleared cache, reinstalled, still same freeze.",2026-03-15 08:05:00,12.4.1,26,,None,sample
+SAMPLE_011,Siddharth Sen,2,"Pickup time changed from 8:15 AM to 7:30 AM with only 10 minutes notice. Complete chaos in the morning.",2026-03-14 07:35:00,12.3.6,18,,None,sample
+SAMPLE_012,Tanvi Deshmukh,1,"Driver refused to drop at designated security gate and demanded OTP before trip completion.",2026-03-12 21:30:00,12.3.5,9,,None,sample
+SAMPLE_013,Arjun Nambiar,2,"Bluetooth beacon check-in never works inside the cab. Driver manual check-in takes forever.",2026-03-10 08:50:00,12.3.5,8,,None,sample
+SAMPLE_014,Pooja Bansal,1,"GPS map shows cab running in circles on opposite side of flyover. Missed ride because driver cancelled.",2026-03-08 19:15:00,12.3.4,24,,None,sample
+SAMPLE_015,Gaurav Bhatt,1,"Company SSO login fails with token error after March release. Unable to book rides for next week.",2026-03-05 16:40:00,12.4.0,30,,None,sample
+SAMPLE_016,Swati Rao,2,"Customer care helpline number inside the app is invalid or perpetually busy during morning transit hours.",2026-03-03 08:25:00,12.3.4,13,,None,sample
+SAMPLE_017,Varun Saxena,1,"Severe battery drain! App drained 35% battery in 40 minutes of background tracking.",2026-03-01 10:00:00,12.3.3,27,,None,sample
+SAMPLE_018,Neha Kulkarni,2,"Schedule cancellation option is greyed out even 3 hours prior to shift. Was penalized unfairly.",2026-02-28 17:15:00,12.3.2,16,,None,sample
+SAMPLE_019,Amitabh Das,1,"Driver was abusive when requested to turn on vehicle AC in sweltering heat.",2026-02-25 15:30:00,12.3.2,12,"We regret this behavior. Fleet vendor penalized.",2026-02-26 12:00:00,sample
+SAMPLE_020,Divya Iyer,1,"Emergency contact alert failed to send SMS when requested during route diversion.",2026-02-23 23:45:00,12.3.1,38,,None,sample
+SAMPLE_021,Rajesh Khanna,2,"ETA estimated 10 mins but took 45 mins due to poor routing algorithm choosing congested alleys.",2026-02-20 09:00:00,12.3.0,15,,None,sample
+SAMPLE_022,Simran Kaur,1,"Notification for cab arrival popped up 10 minutes AFTER the cab left my pickup point.",2026-02-18 07:55:00,12.3.0,21,,None,sample
+SAMPLE_023,Manoj Tiwari,2,"Login requires entering corporate employee code and password repeatedly every single morning.",2026-02-15 08:10:00,12.2.9,9,,None,sample
+SAMPLE_024,Bhavna Chadha,1,"Vehicle smelled heavily of smoke and seatbelts in rear seats were completely broken.",2026-02-12 20:30:00,12.2.8,14,,None,sample
+SAMPLE_025,Nikhil Jain,1,"App crashed 4 times while trying to confirm Friday night drop shift roster.",2026-02-10 18:20:00,12.2.8,11,,None,sample
+SAMPLE_026,Alok Mathur,3,"Average experience. Cab arrives on time mostly, but UI is clunky and slow to switch between tabs.",2026-02-08 08:30:00,12.2.7,4,,None,sample
+SAMPLE_027,Sunita Reddy,3,"Tracking is ok when it connects, but OTP reception via email is frequently delayed.",2026-02-05 13:45:00,12.2.6,6,,None,sample
+SAMPLE_028,Tarun Chopra,3,"Clean cars and courteous drivers recently, but roster cutoff time of 2 PM is too inflexible.",2026-02-01 17:00:00,12.2.5,3,,None,sample
+SAMPLE_029,Kavita Singhal,3,"Check-in scanner requires 3 attempts in dim street lighting. Otherwise commute is decent.",2026-01-28 21:10:00,12.2.4,5,,None,sample
+SAMPLE_030,Harish Menon,3,"Customer support did resolve my ticket eventually after 4 days. Could be much faster.",2026-01-25 11:30:00,12.2.3,2,,None,sample
+SAMPLE_031,Ritu Kapoor,4,"Good transport management app. Live tracking works accurately in Gurgaon sector 48.",2026-01-20 09:15:00,12.2.2,8,,None,sample
+SAMPLE_032,Sanjay Hegde,4,"Safe and reliable commute every day. Drivers are polite and verify OTP properly.",2026-01-18 19:45:00,12.2.1,12,"Thank you Sanjay! Glad to hear your experience is positive.",2026-01-19 10:00:00,sample
+SAMPLE_033,Pallavi Ghosh,5,"MoveInSync makes corporate travel seamless! Female security escort protocol followed diligently.",2026-01-15 22:30:00,12.2.0,19,"Thank you Pallavi! Passenger safety is our topmost commitment.",2026-01-16 09:30:00,sample
+SAMPLE_034,Abhishek Pandey,4,"Easy roster booking. Very rarely had any pickup delays over the past 6 months.",2026-01-12 08:20:00,12.1.9,7,,None,sample
+SAMPLE_035,Shweta Mishra,5,"Real-time tracking and timely arrival notifications work like clockwork in Bangalore.",2026-01-08 08:40:00,12.1.8,14,,None,sample
+SAMPLE_036,Karan Varma,4,"Clean UI and timely cabs. Push notification alert when cab is within 1 km is very handy.",2026-01-04 18:50:00,12.1.7,5,,None,sample
+SAMPLE_037,Aditi Saxena,5,"Excellent employee transport ecosystem. Safety confirmation call after night shift is reassuring.",2025-12-30 23:15:00,12.1.6,23,,None,sample
+SAMPLE_038,Naveen Kumar,1,"Driver dropped me 2 km away from my designated drop point stating road blockage without confirmation.",2025-12-25 21:40:00,12.1.5,18,,None,sample
+SAMPLE_039,Monika Rastogi,1,"Cannot book weekend shift cab. Error message says employee roster not registered with admin.",2025-12-20 12:15:00,12.1.4,10,,None,sample
+SAMPLE_040,Vinay Poddar,2,"GPS icon keeps freezing at highway toll booth while cab is already at destination.",2025-12-15 09:05:00,12.1.3,16,,None,sample
+SAMPLE_041,Rashmi Agarwal,1,"Driver refused to wait for 2 minutes grace period and marked me as no-show. Very unprofessional.",2025-12-10 07:42:00,12.1.2,25,,None,sample
+SAMPLE_042,Girish Kulkarni,2,"New app interface is very sluggish on Android 13. High memory usage.",2025-12-05 14:20:00,12.1.1,11,,None,sample
+SAMPLE_043,Sangeeta Balan,1,"Night cab escort was sleeping in front seat and driver was overspeeding on outer ring road.",2025-12-01 23:55:00,12.1.0,34,"Escort compliance violation flagged with security manager immediately.",2025-12-02 09:00:00,sample
+SAMPLE_044,Chirag Shah,2,"Support chat bot gives useless automated responses. Cannot connect to human executive.",2025-11-26 16:35:00,12.0.9,15,,None,sample
+SAMPLE_045,Preeti Sengupta,1,"Forgot bag in cab, no way to contact driver or immediate helpline through app history.",2025-11-20 20:10:00,12.0.8,29,,None,sample
+SAMPLE_046,Nitin Gadkari,4,"Smooth experience for daily commute to IT park. Good initiative by company.",2025-11-15 08:30:00,12.0.7,4,,None,sample
+SAMPLE_047,Shalini Prasad,1,"App logged me out in middle of booking and OTP server failed with network timeout.",2025-11-10 18:00:00,12.0.6,20,,None,sample
+SAMPLE_048,Deepak Chawla,2,"Cab arrived 20 minutes before schedule and driver called 5 times while I was preparing.",2025-11-05 06:45:00,12.0.5,13,,None,sample
+SAMPLE_049,Hema Malini,1,"Security guard didn't show up for midnight shift drop. App showed escort verified!",2025-10-30 00:20:00,12.0.4,41,"Critical audit initiated regarding escort attendance discrepancy.",2025-10-30 08:00:00,sample
+SAMPLE_050,Gautam Gambhir,5,"Reliable service for office transit. Cab tracking and driver communication are smooth.",2025-10-25 19:20:00,12.0.3,9,,None,sample
